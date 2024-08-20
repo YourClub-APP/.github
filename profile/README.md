@@ -13,3 +13,14 @@
 
 ### Transform the way you learn with YourClub, the first social network that integrates infoproducts, education, personal and collective development
 <a href="https://yourclub.io/" target="_blank">Yourclub</a> is a social network focused on education and personal and collective development
+
+### App functions
+<ul>
+  <li>Criação de Clubes Personalizados:</li>
+  <ul>
+    <li>Clubes temáticos variados</li>
+    <li>Comunidades focadas em interesses específicos</li>
+  </ul>
+    <li>Criação de Clubes Personalizados:</li>
+  <li>Integração de Rede Social com Infoprodutos</li>
+</ul>
