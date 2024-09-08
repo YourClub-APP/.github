@@ -21,6 +21,6 @@
     <li>Clubes temáticos variados</li>
     <li>Comunidades focadas em interesses específicos</li>
   </ul>
-    <li>Criação de Clubes Personalizados:</li>
+  
   <li>Integração de Rede Social com Infoprodutos</li>
 </ul>
